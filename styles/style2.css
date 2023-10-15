@@ -26,14 +26,14 @@ p {
     line-height: 20px;
 }
 
-@media (max-width: 990px) {
+@media (max-width: 770px) {
     #cont {
         width: 90%;        
     }
 
     p {
-        margin: 25px 0;
-        line-height: 30px;
+        margin: 45px 0;
+        line-height: 50px;
     }
 }
 
