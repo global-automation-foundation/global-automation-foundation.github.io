@@ -21,10 +21,19 @@ body {
     margin: 0 auto;
 }
 
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
 
 @media (max-width: 990px) {
     #cont {
         width: 90%;        
+    }
+
+    p {
+        margin: 25px 0;
+        line-height: 30px;
     }
 }
 
@@ -33,10 +42,6 @@ body {
     margin: 20px 0;
 }
 
-p {
-    font-size: 16px;
-    line-height: 20px;
-}
 
 #footer {
     margin: 0 0 200px 0;
