@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    
+}
+
+.wrapper {
+    display: flex;
+    min-height: 100%;
+    overflow: hidden;
+    flex-direction: row;
+}
+
+.container {
+    width: 1920px;
+    margin: 0 auto;
+}
+
+#cont {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#total_control_img {
+    width: 100%;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+#footer {
+    margin: 0 0 200px 0;
+}
